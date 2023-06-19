@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "Department": "Human Resources",
+    "Topic": "Health Insurance",
+    "Body": "All employees are eligible for health insurance after they have worked for the company for at least one year.",
+    "Owner": "Joe Smith"
+  },
+  {
+    "id": "2",
+    "Department": "Human Resources",
+    "Topic": "Health Insurance",
+    "Body": "Medical insurance covers only one routine physical per year.",
+    "Owner": "Joe Smith"
+  },
+  {
+    "id": "3",
+    "Department": "Human Resources",
+    "Topic": "Health Insurance",
+    "Body": "Medical insurance is free for the single employee.  If the employee has a spouse, it is an additional $500 per month charge to cover the spouse.   A family plan that includes both the spouse and any children is $700 per month.",
+    "Owner": "Joe Smith"
+  },
+  {
+    "id": "4",
+    "Department": "Product",
+    "Topic": "Pizza Ingredients",
+    "Body": "All of our pizzas are made with Dough, Tomato Sauce, Mozzarella Cheese.  Optional toppings include any one or all of sausage, pepperoni, pineapple, or anchovies.",
+    "Owner": "Jane Doe"
+  },
+  {
+    "id": "5",
+    "Department": "Product",
+    "Topic": "Beverages",
+    "Body": "We sell the following beverages only:  Coke, Sprite, Water, and Iced Tea",
+    "Owner": "Jane Doe"
+  }
+  ,
+  {
+    "id": "6",
+    "Department": "Human Resources",
+    "Topic": "Health Insurance",
+    "Body": "Medical insurance covers most surgeries.",
+    "Owner": "Joe Smith"
+  }
+  ,
+  {
+    "id": "7",
+    "Department": "Product",
+    "Topic": "Pizza",
+    "Body": "A gluten free pizza is also offered.",
+    "Owner": "Jane Doe"
+  }
+
+]
